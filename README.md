@@ -1,16 +1,25 @@
-## Hi there 👋
+### I'm riotarcie 👋
 
-<!--
-**riotarcie/riotarcie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Malaysia.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>About me</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Powered by coffee and late-night commits
+- 🛠️ Tinkering with side projects on weekends
+- 🔭 Currently working on analytics
+- 🧩 I like small tools that do one thing well
+- 🎯 This year's goal: ship something every month
+
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=riotarcie&hide_border=true&theme=minimal" alt="Contribution graph" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riotarcie&hide_border=true&theme=nightowl" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-f778ba?style=for-the-badge&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Jupyter-f778ba?style=for-the-badge&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/SQL-f778ba?style=for-the-badge&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/Python-f778ba?style=for-the-badge&logoColor=white" alt="Python" />
+</p>
+
+</details>
+
+<sub>Still learning, still shipping.</sub>
